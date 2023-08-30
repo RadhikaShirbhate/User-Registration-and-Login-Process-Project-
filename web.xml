@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<web-file-list>
+		<welcome-file>
+		 Login.html
+		</welcome-file>
+	</web-file-list>
+</web-app>
